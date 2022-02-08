@@ -10,3 +10,10 @@ I'm making an OK progress, but having problems finding the time to work on it. I
 
 That's all for now.
 Bye
+
+
+Huh... I wrote this about a year ago. Not much progress regarding OpenGL unfortunately. The job offer I aimed for rejected me so I pretty much lost interest in it.
+
+I'm currently half way through a machine learning course on coursera.org and very keen on finishing it. Apart from that I'm back into Unreal Engine 4 development. Whenever I have time I'm improving and learning about the engine and aim to get a job as a professional.
+
+Till later then. 
